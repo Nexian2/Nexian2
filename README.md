@@ -11,19 +11,19 @@
   <br />
 
   <!-- SOCIAL MEDIA -->
-  <a href="https://github.com/USERNAME_GITHUB_KAMU" target="_blank">
+  <a href="https://github.com/Nexian2" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/USERNAME_KAMU" target="_blank">
+  <a href="https://www.linkedin.com/in/tsar-luthfi-a6920b360/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/USERNAME_KAMU" target="_blank">
+  <a href="https://instagram.com/nolanbrefico" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="mailto:EMAIL_KAMU@gmail.com">
+  <a href="mailto:tsarlutfhi@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
