@@ -2,7 +2,7 @@
 
   <!-- HEADER BANNER -->
   <img
-    src="https://via.placeholder.com/1200x400.png?text=Header+Banner+Kamu"
+    src="https://i.pinimg.com/736x/44/04/be/4404beee7ffc5f9f30292a03fbafcef3.jpg/1200x400.png?text=Header+Banner+Kamu"
     alt="Header Banner"
     width="100%"
   />
