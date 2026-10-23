@@ -1,8 +1,6 @@
 <div align="center">
-
-  <!-- HEADER BANNER -->
-  <img
-    src="https://i.pinimg.com/736x/44/04/be/4404beee7ffc5f9f30292a03fbafcef3.jpg/1200x400.png?text=Header+Banner+Kamu"
+  <img src="banner.gif">
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eGZ5ZnJ6eGZ5ZnJ6eGZ5ZnJ6eGZ5ZnJ6eGZ5ZnJ6eGZ5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjRrfIPjeiVyM/giphy.gif"
     alt="Header Banner"
     width="100%"
   />
@@ -32,7 +30,7 @@
 
   <!-- VISITOR COUNTER -->
   <img
-    src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&color=blueviolet&style=flat-square&label=VISITORS"
+    src="https://komarev.com/ghpvc/?username=Nexian2&color=blueviolet&style=flat-square&label=VISITORS"
     alt="Visitor Counter"
   />
 
@@ -94,6 +92,15 @@ software development, web development, backend, dan cybersecurity.
 
 <hr />
 
+## 📊 Skill Proficiency
+
+- **Python** ⭐⭐⭐⭐⭐ — Scripting, automation, security tooling, and core backend logic.
+- **PHP & Laravel** ⭐⭐⭐⭐⭐ — Full-stack web architecture, MVC pattern, PDO, and secure backend systems.
+- **JavaScript & Node.js** ⭐⭐⭐⭐ — Asynchronous programming, RESTful APIs, and dynamic web development.
+- **C Language** ⭐⭐⭐ — Exploring low-level architecture, pointer mechanics, and mapping out the runtime memory layout (Stack, Heap, BSS, Data, Text). *Getting closer to zero secrets with the RAM.*
+
+<hr />
+
 ## 📚 Currently Learning
 
 <p align="left">
@@ -135,10 +142,10 @@ software development, web development, backend, dan cybersecurity.
 Currently Learning
 
 ├── Programming
-│   ├── PHP
-│   ├── JavaScript
-│   ├── Python
-│   └── C
+│   ├── PHP         (⭐⭐⭐⭐⭐)
+│   ├── Python      (⭐⭐⭐⭐⭐)
+│   ├── JavaScript  (⭐⭐⭐⭐)
+│   └── C           (⭐⭐⭐)
 │
 ├── Web Development
 │   ├── HTML
@@ -147,8 +154,8 @@ Currently Learning
 │   └── Backend Development
 │
 ├── Backend
-│   ├── Laravel
-│   ├── Node.js
+│   ├── Laravel     (⭐⭐⭐⭐⭐)
+│   ├── Node.js     (⭐⭐⭐⭐)
 │   ├── REST API
 │   └── MySQL
 │
