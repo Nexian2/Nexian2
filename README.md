@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.mp4"
+  <img src="banner.gif"
     alt="Header Banner"
     width="100%"
   />
