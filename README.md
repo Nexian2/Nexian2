@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="banner.gif">
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eGZ5ZnJ6eGZ5ZnJ6eGZ5ZnJ6eGZ5ZnJ6eGZ5ZnJ6eGZ5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjRrfIPjeiVyM/giphy.gif"
+  <img src="banner.mp4"
     alt="Header Banner"
     width="100%"
   />
